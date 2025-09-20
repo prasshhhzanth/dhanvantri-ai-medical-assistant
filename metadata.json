@@ -1,5 +1,5 @@
 {
-  "name": "Dhanvantari - AI Medical Assistant",
+  "name": "Dhanvantari - AI Medical Assistant final",
   "description": "A sophisticated AI-powered healthcare assistant. Features include a medical analyzer for symptoms and drug interactions, a calorie counter, a prescription scanner with OCR, a nearby hospital locator, and a medicine delivery service. Built with a modern, user-friendly interface to provide intelligent health insights.",
   "requestFramePermissions": [
     "camera",
